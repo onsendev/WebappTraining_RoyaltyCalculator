@@ -23,7 +23,7 @@
 	<main role="main" class="p-4">
 		<div class="row">
 			<div class="col-12">
-				<form action="./CalculateServlet" method="post">
+				<form action="./CalculateServlet" method="get">
 					<p class="mb-1">販売価格</p>
 					<input name="sales_price" type="number" class="mb-3">
 					<p class="mb-1">販売数</p>
